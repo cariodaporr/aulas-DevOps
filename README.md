@@ -1,3 +1,6 @@
+#1800497 Renan Baldresca Duarte
+
+
 # Analise - Geladeira Autonoma - Identifica os itens faltando na geladeira e efetua a compra e notifica via sms ou e-mail os valores e
 # manda lista de compra para aprovação.
 
