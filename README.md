@@ -1,4 +1,5 @@
-#1800497 Renan Baldresca Duarte
+# 1800497 Renan Baldresca Duarte
+# 1801173 Victor Souza Siqueira
 
 
 # Analise - Geladeira Autonoma - Identifica os itens faltando na geladeira e efetua a compra e notifica via sms ou e-mail os valores e
