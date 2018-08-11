@@ -3,7 +3,7 @@
 # 1800069 Raphael Manduca
 # 1800436 Braz Costa de Brito
 # 1801023 Vinicius Ribeiro Matos
-# Felix Queiroz Da Silva Medeiros
+#  1800352 Felix Queiroz Da Silva Medeiros
 
 # Analise - Geladeira Autonoma - Identifica os itens faltando na geladeira e efetua a compra e notifica via sms ou e-mail os valores e
 # manda lista de compra para aprovação.
